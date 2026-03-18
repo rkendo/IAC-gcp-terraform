@@ -5,6 +5,8 @@ The infrastructure includes networking, compute resources, and secure state mana
 
 🚀 Architecture
 The infrastructure provisions:
+<img width="758" height="559" alt="image" src="https://github.com/user-attachments/assets/e4af56dd-b6ce-49c1-8e58-9b9f9f458817" />
+
 
 Custom AWS VPC
 Public and Private Subnets
